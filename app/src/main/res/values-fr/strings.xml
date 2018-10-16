@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SmartZoo</string>
+    <string name="strConnect">Connecter</string>
+    <string name="strConnected">Connecter</string>
+    <string name="strEnregistrer">Enregistrer</string>
+    <string name="strEspece">Espece</string>
+    <string name="strListe">Afficher La Liste</string>
+    <string name="strPassword">Mot De Passe</string>
+    <string name="strPseudo">Pseudo</string>
+    <string name="strSave">Enregistrer</string>
+    <string name="strSucces">Animal Enregisté avec Succes</string>
+    <string name="strUsername">Nom d\'utilisateur</string>
+    <string name="strWarmings">Veillez entrer toutes les informations</string>
+    <string name="strNotPermission">Vous n\'avez pas la permission</string>
+    <string name="strWrongLogin">Login ouMot de Passe incorrect</string>
+    <string name="strAbout">"A Propos "</string>
+    <string name="strApropos">A Propos</string>
+    <string name="strMembre">\"Sanou Abou Dramane  Coulibaly Cheick Rachid Yacouba \"</string>
+    <string name="strExit">Quitter</string>
+    <string name="strOtherFile">Autre Fichier</string>
+</resources>

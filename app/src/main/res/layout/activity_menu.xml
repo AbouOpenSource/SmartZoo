@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_menu"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="esi.univbobo.bf.smartzoo.MenuActivity">
+
+    <ImageView
+        android:id="@+id/imageEnregistrer"
+        android:background="@drawable/photostyle"
+
+        android:layout_alignParentTop="true"
+        android:layout_width="160dp"
+        android:layout_height="160dp"
+        android:src="@drawable/ic_actionadd"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="18dp"/>
+
+    <ImageView
+        android:id="@+id/imageListe"
+        android:background="@drawable/photostyle"
+        android:layout_width="160dp"
+        android:layout_height="160dp"
+        android:src="@drawable/ic_action_liste"
+        android:layout_alignParentBottom="true"
+        android:layout_alignLeft="@+id/imageEnregistrer"
+        android:layout_alignStart="@+id/imageEnregistrer"
+        android:layout_marginBottom="85dp" />
+
+</RelativeLayout>

@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">SmartZoo</string>
+    <string name="strUsername">Username</string>
+    <string name="strPassword">Password</string>
+    <string name="strConnect">Connect</string>
+    <string name="strConnected">Connect</string>
+    <string name="strEnregistrer">Save</string>
+    <string name="strListe">Show List</string>
+    <string name="strEspece">Species</string>
+    <string name="strPseudo">Pseudo</string>
+    <string name="strSave">Save</string>
+    <string name="strWarmings">Make sure you enter all the information</string>
+    <string name="strSucces">Recorded Animal With Succes</string>
+    <string name="strWrongLogin">incorrect login or password</string>
+    <string name="strNotPermission">You do not have the rights</string>
+    <string name="strOtherFile">Other File</string>
+    <string name="strAbout">About</string>
+    <string name="strApropos">About</string>
+    <string name="strExit">Exit</string>
+    <string name="strMembre">"Sanou Abou \n Coulibaly Cheick "</string>
+
+</resources>
